@@ -1,0 +1,19 @@
+.input-wrapper{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid white;
+}
+
+input{
+    height: 30%;
+    width: 80%;
+    border-width:0px;
+    border:none;
+    background: none;
+}
+
+img{
+    height: 70%;
+}
